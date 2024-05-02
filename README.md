@@ -1,16 +1,17 @@
-### Hi there 👋
+![image](https://placehold.co/200)
 
-<!--
-**pdavenport/pdavenport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">What is the measure of a Man?</h3>
 
-Here are some ideas to get you started:
+![image](https://placehold.co/200)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Is it his Affect or his Effect?</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/vcirnqg95vxscbiwrzw6bfd05">
+    <img src="https://readme-spotify-seven.vercel.app/api/spotify.py" alt="Spotify">
+  </a>
+</p>
+
+<h3 align="center">Truly, Joy lives in Suffering and Gratitude.</h3>
+
+![image](https://placehold.co/200)
