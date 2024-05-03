@@ -1,10 +1,7 @@
-![DoYouKnow](https://github.com/pdavenport/pdavenport/assets/52129935/eb09ece0-a2c3-4e5d-8f99-713a68aa3d6e)
-
 <h3 align="center">What is the measure of a Man?</h3>
 
-![HowHeTalksToHimselfOrOthers](https://github.com/pdavenport/pdavenport/assets/52129935/bbeec752-2213-452c-9696-443294c036a8)
+![FY5yaizX0AA2SBd](https://github.com/pdavenport/pdavenport/assets/52129935/739bca0f-6a03-4b85-8150-21c045e9f907)
 
-<h3 align="center">is it his Affect or Effect?</h3>
 
 <p align="center">
   <a href="https://open.spotify.com/user/vcirnqg95vxscbiwrzw6bfd05">
@@ -12,6 +9,6 @@
   </a>
 </p>
 
-<h3 align="center">Truly, Joy lives within Suffering and Gratitude</h3>
+![DoYouKnow](https://github.com/pdavenport/pdavenport/assets/52129935/eb09ece0-a2c3-4e5d-8f99-713a68aa3d6e)
 
-![YouCannotKnowTheOneWithoutTheOther](https://github.com/pdavenport/pdavenport/assets/52129935/94a8e7e2-fcc6-459e-bd7c-bc3845066df6)
+<h3 align="center">Truly, Joy lives within Suffering and Gratitude</h3>
