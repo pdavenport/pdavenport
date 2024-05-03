@@ -12,6 +12,6 @@
   </a>
 </p>
 
-<h3 align="center">Truly, Joy lives withing Suffering and Gratitude.</h3>
+<h3 align="center">Truly, Joy lives within Suffering and Gratitude</h3>
 
 ![YouCannotKnowTheOneWithoutTheOther](https://github.com/pdavenport/pdavenport/assets/52129935/94a8e7e2-fcc6-459e-bd7c-bc3845066df6)
