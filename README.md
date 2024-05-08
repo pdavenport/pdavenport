@@ -1,4 +1,4 @@
-<h3 align="center">What is the measure of a Man?</h3>
+<p align="center">What is the measure of a Man?</p>
 
 ![FY5yaizX0AA2SBd](https://github.com/pdavenport/pdavenport/assets/52129935/739bca0f-6a03-4b85-8150-21c045e9f907)
 
@@ -11,4 +11,4 @@
 
 ![DoYouKnow](https://github.com/pdavenport/pdavenport/assets/52129935/eb09ece0-a2c3-4e5d-8f99-713a68aa3d6e)
 
-<h3 align="center">Truly, Joy lives within Suffering and Gratitude</h3>
+<p align="center">true Joy, powerful in nature, lives amidst Suffering and Gratitude</p>
