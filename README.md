@@ -1,4 +1,4 @@
-<p align="center">What is the measure of a Man?</p>
+<p align="center">What is the measure of a Man? His Affect or Effect?</p>
 
 ![FY5yaizX0AA2SBd](https://github.com/pdavenport/pdavenport/assets/52129935/739bca0f-6a03-4b85-8150-21c045e9f907)
 
