@@ -1,5 +1,9 @@
-<pre align="center">What is the measure of a Man? 
-Is it his Affect or his Effect?</pre>
+<h2 align="center"> TODAY tell your loved ones how you feel as if you're dying. </h2>
+<br/>
+<br/>
+
+
+
 
 <details>
 <summary align="center"> 
@@ -18,7 +22,7 @@ export const Peter = (timeOfDay, amountOfCoffee) => {
     <>
       {timeOfDay && (
         <div class="flex text-lg">
-          <h1>GREETINGS</h1>
+          <h1>Hey!</h1>
           <h2>Peter is a senior full stack developer.</h2>
           <h3>Peter loves to cook and be in the sun.</h3>
           <p>At this very moment, Peter is currently {crabStatus}.</p>
@@ -29,6 +33,7 @@ export const Peter = (timeOfDay, amountOfCoffee) => {
 };
 ```
 </details>
+<br/>
 <br/> <!-- hehehe !-->
 
 <div align="center">
@@ -41,6 +46,8 @@ export const Peter = (timeOfDay, amountOfCoffee) => {
 
 ![FY5yaizX0AA2SBd](https://github.com/pdavenport/pdavenport/assets/52129935/739bca0f-6a03-4b85-8150-21c045e9f907)
 
+<pre align="center">What is the measure of a Man? 
+Is it his Affect or his Effect?</pre>
 
 <p align="center">
   <a href="https://open.spotify.com/user/vcirnqg95vxscbiwrzw6bfd05">
