@@ -37,7 +37,8 @@ export const Peter = (timeOfDay, amountOfCoffee) => {
 <br/> <!-- hehehe !-->
 
 <div align="center">
-
+<a href="https://pdavenport.github.io">My Website</a>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn)](https://www.linkedin.com/in/peter-davenport/)
 [![Spotify](https://img.shields.io/badge/Spotify-000000?logo=spotify)](https://open.spotify.com/user/vcirnqg95vxscbiwrzw6bfd05)
 [![Twitter](https://img.shields.io/badge/Follow_me-000000?logo=x)](https://twitter.com/PeterD61063)
